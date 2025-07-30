@@ -1,4 +1,3 @@
 <p align="center">
-  <b>this profile has personal projects i made while learning and figuring things out.</b><br>
-  <b>feel free to explore, take ideas, or just check things out if you're curious.</b>
+  <img src="https://stickershop.line-scdn.net/stickershop/v1/product/25567097/LINEStorePC/main.png?v=1">
 </p>
